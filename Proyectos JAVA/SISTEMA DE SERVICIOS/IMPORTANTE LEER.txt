@@ -1,0 +1,3 @@
+No poseo la consigna de este trabajo.
+
+El proyecto consiste en crear un sistema para una empresa que ofrece diferentes tipos de servicios. Donde se deben abarcar conceptos como herencia y polimorfismo.
